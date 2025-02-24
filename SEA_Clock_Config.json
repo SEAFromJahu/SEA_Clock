@@ -1,0 +1,24 @@
+{
+  "InitialTrackBarValue": 35,
+  "ProcessCheckRetries": 5,
+  "ProcessCheckDelayMilliseconds": 2000,
+  "Urls": [
+    "loopback",
+    "www.ceptro.br",
+    "www.cgi.br",
+    "www.claro.com.br",
+    "www.facebook.com",
+    "www.globo.com",
+    "www.google.com",
+    "www.linkedin.com",
+    "www.nic.br",
+    "www.terra.com.br",
+    "www.tim.com.br",
+    "www.udemy.com",
+    "www.uol.com.br",
+    "www.vivo.com",
+    "www.yahoo.com",
+    "www.youtube.com"
+  ],
+  "LogFilePath": "C:\\Temp\\PingLog.txt"
+}
